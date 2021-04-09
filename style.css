@@ -1,0 +1,25 @@
+body{
+    background-color: seashell;
+}
+
+.header{ 
+    background-color: orangered; 
+    display: flex; 
+    justify-content: center; }
+
+.item4{
+    background-color: green;
+}
+
+
+.item1{
+    background-color: pink;
+   }
+
+   .item2{
+    background-color: brown;
+   }
+
+   .item3{
+    background-color: greenyellow;
+   }
